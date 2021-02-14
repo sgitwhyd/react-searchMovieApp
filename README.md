@@ -18,7 +18,7 @@ npm install
 yarn install
 ```
 
-## Setup  example
+## Setup  .env
 
 ```
 REACT_APP_API = your api from omdbapi
